@@ -297,7 +297,10 @@
 
     מפות בינג
     http://www.bing.com/maps/
-   
+  
+    מפות בתלת מימד
+    https://simplex-smart3d.com/
+  
 %% עיריות
 
     עיריית ירושלים
